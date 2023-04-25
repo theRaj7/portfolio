@@ -1,0 +1,66 @@
+
+.main-text{
+  margin-top:10%;
+  margin-bottom: 2%;
+  text-align: center;
+  
+  
+}
+
+p{
+  font-size: 22px;
+  color: gray;
+}
+
+
+.name{
+  font-size: 44px;
+  color: rgb(0, 0, 0);
+}
+
+
+/* TEMPLETE */
+
+.rounded-pill{
+  margin-left: 45%;
+  background-color: rgb(25, 6, 231);
+  color: white;
+  width: 110px;
+  height: 45px;
+  border: 0;
+  /* margin-top: 5%; */
+  
+
+}
+
+
+.one{
+  padding: 2%;
+  margin: 1%;
+  display:inline-block;
+  height: 250px;
+  width: 250px;
+  background-color: rgb(18, 18, 18);
+  border: 1px solid black;
+  font-weight: bold;
+  font-size:30px ;
+  color:blue ;
+  padding-top: 5%;
+ 
+}
+.one:hover{
+  cursor: pointer;
+  background-color: rgb(61, 248, 10);
+  color: rgb(237, 237, 237);
+  font-size:50px ;
+}
+
+.coming-soon{
+  width: 250px;
+}
+
+.temp-heading{
+  text-align: center;
+  font-size: 50px;
+  color: rgb(50, 63, 204);
+}
